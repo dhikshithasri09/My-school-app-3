@@ -1,0 +1,70 @@
+body {
+    text-align: left;
+}
+
+#school {
+    width: 100%;
+    height: 800px;
+}
+
+#marqueeStyle {
+    background-color: lightcyan;
+}
+
+#details {
+    margin-left: -20px;
+}
+
+.travel_mainDiv img {
+    height: 200px;
+    width: 800px;
+}
+
+#travel {
+   text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
+
+#achievements {
+    text-align: center;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+#school_news {
+    text-align: center;
+}
+
+.school_news_li {
+    margin-top: 30px;
+}
+
+.school_news_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.school_news img {
+    border-radius: 25px;
+    height: 100px;
+    width: 100px;
+}
+
+.school_news_li p {
+    margin-top: 10px;
+}
+
